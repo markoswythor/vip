@@ -1031,7 +1031,7 @@ async function starts() {
 						if (!isNsfw) return reply(' *FALSE* ')
 						res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwneko?apikey=${TobzApi}`, {method: 'get'})
 						buffer = await getBuffer(res.result)
-						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ni anjim'})
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'rapaaaazz'})
 					} catch (e) {
 						console.log(`Error :`, color(e,'red'))
 						reply(' *ERROR* ')
@@ -1046,7 +1046,7 @@ async function starts() {
 						if (!isNsfw) return reply(' *FALSE* ')
 						res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwtrap?apikey=${TobzApi}`, {method: 'get'})
 						buffer = await getBuffer(res.result)
-						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ni anjim'})
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'rapaaaaaaz kkkkk'})
 					} catch (e) {
 						console.log(`Error :`, color(e,'red'))
 						reply(' *ERROR* ')
@@ -1061,7 +1061,7 @@ async function starts() {
 						if (!isNsfw) return reply(' *FALSE* ')
 						res = await fetchJson(`https://tobz-api.herokuapp.com/api/hentai?apikey=${TobzApi}`, {method: 'get'})
 						buffer = await getBuffer(res.result)
-						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ni anjim'})
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'essa é gostosaar'})
 					} catch (e) {
 						console.log(`Error :`, color(e,'red'))
 						reply(' *ERROR* ')
@@ -1083,7 +1083,7 @@ async function starts() {
 				if (!isUser) return reply(mess.only.userB)
 				if (isLimit(sender)) return reply(limitend(pushname2))
 				reply(mess.wait)
-					if (args.length < 1) return reply('Mau Nyari Chord Lagu Apa??')
+					if (args.length < 1) return reply('O que é Canção de Acorde??')
 					tels = body.slice(7)
 					anu = await fetchJson(`https://alfians-api.herokuapp.com/api/chord?q=${tels}`, {method: 'get'})
 					client.sendMessage(from, `${anu.result}`, text, {quoted: mek})
@@ -1124,7 +1124,7 @@ async function starts() {
 					anu = await fetchJson(`https://tobz-api.herokuapp.com/api/randomanime?apikey=${TobzApi}`, {method: 'get'})
 					reply(mess.wait)
 					pok = await getBuffer(anu.result)
-					client.sendMessage(from, pok, image, { quoted: mek , caption: 'nihhh'})
+					client.sendMessage(from, pok, image, { quoted: mek , caption: 'morraaaaa'})
 					await limitAdd(sender) 
 					break  
 				case 'animekiss':
