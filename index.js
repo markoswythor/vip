@@ -1819,7 +1819,7 @@ async function starts() {
 				if (isLimit(sender)) return reply(limitend(pushname2))
 				if (args.length < 1) return reply('tag temanmu!')
 				rate = body.slice(11)
-				persengayy = ["*4%*\n\n*Tobat Ngegay Gan:v*","*9%*\n\n*OTW Tobat Gan:v*","*17%*\n\n*Kang Coli*","*28%*\n\n*Buset Dah Gay🤦*","*34%*\n\n *Korban Tusbol*","*48%*\n\n*Kang Hunter Bool:v*","*59%*\n\n *Bahaya Ni Orang Gan*","*62%*\n\n*Hati² Sama Ni Orang Beneran Dah*","*74%*\n\n*Astagfirullah Kabur Gan🏃🌬️*","83%\n\n Yaallah Nak🤦","97%\n\nAstagfirullah🤦","100%\n\nKabur ae Gan Daripada Ditusbol Bool lu🏃","29%\n\n amann:v","94%\n\n Yaallah🏃","75%\n\nHadehh Gay🤦","82%\n\nMending Lu Tobat Dah🏃","41%\n\nSering Cari Bool Diperempatan","39%\n\nSering Tusbol Bool Topan🏃"]
+				persengayy = ["*4%*\n\n*quase gay:v*","*9%*\n\n*ontw tem medo de ser gay:v*","*17%*\n\n*já tá no rumo*","*28%*\n\n*o famoso incubado🤦*","*34%*\n\n *ele queima famila?*","*48%*\n\n*esse corta para os dois lados:v*","*59%*\n\n *o gay incubado kkkkk*","*62%*\n\n*fiatinhooooo*","*74%*\n\n*escapa não seu boiola🏃🌬️*","83%\n\n o meu deuuus🤦","97%\n\nacho que ele queima muito🤦","100%\n\ncorre não fdp🏃","29%\n\n eitaaa :v","94%\n\n coeeeee🏃","75%\n\nbem Gay🤦","82%\n\nAgiota já tem que cobrar🏃","41%\n\nné caridade não man","39%\n\nninguém escapa🏃"]
 				const kl = persengayy[Math.floor(Math.random() * persengayy.length)]
 				client.sendMessage(from, 'Persen Gay: *'+rate+'*\n\nJawaban : '+kl+'', text, { quoted: mek })
 				await limitAdd(sender) 
@@ -1830,7 +1830,7 @@ async function starts() {
 			case 'bucinpersen':
 				if (!isUser) return reply(mess.only.userB)
 				if (isLimit(sender)) return reply(limitend(pushname2))
-				if (args.length < 1) return reply('Mana Nama?')
+				if (args.length < 1) return reply('Qual o nome?')
 				rate = body.slice(8)
 				persenbucin = ["4%\n\nHadehh🤦","9%\n\nMasih Kecil Dah Bucin Ae","17%\n\nNakk Masih Kecil","28%\n\nYoalahh hmm","34%\n\nMayan Lah","48%\n\nGatau","59%\n\nBiasa Kang Bucin","62%\n\n Hadehhh🏃","74%\n\n bucen Teroosss","83%\n\n Sekali² kek Ga bucin Gitu","97%\n\nHadehh Pakboi²","100%\n\nHadehhh Ini Bukan Bucin Tapi Pakboi","29%\n\nKasian Mana Masih Muda","94%\n\n Dasar Pakboi","75%\n\n Ya Ampun"]
 				const pbucin = persenbucin[Math.floor(Math.random() * persenbucin.length)]
