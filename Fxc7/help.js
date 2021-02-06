@@ -149,7 +149,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ╰────────────────────────
 
 
-╭──────「 *OUTROS DIVERSÃO E JOGO* 」
+╭──────「 *DIVERSÃO E JOGO* 」
 ┴
 │➻ *${prefix}anjing*
 │➻ *${prefix}kucing*
@@ -178,7 +178,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ┬
 ╰────────────────────────
 
-╭──────「 *OUTROS DIVERSÃO E JOGO* 」
+╭──────「 *DIVERSÃO E JOGO 1* 」
 ┴
 │➻ *${prefix}jarak Banyuwangi/Surabaya*
 │➻ *${prefix}translate en/Apa kabar?*
@@ -208,7 +208,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ╰───────────────────────────
 
 
-╭──────「 *OUTROS DIVERSÃO E JOGO* 」
+╭──────「 *DIVERSÃO E JOGO 2* 」
 ┴
 │➻ *${prefix}asupan*
 │➻ *${prefix}tebakgambar*
@@ -220,7 +220,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ┬
 ╰────────────────────────
 
-╭──────「 *OUTROS DIVERSÃO E JOGO* 」
+╭──────「 *DIVERSÃO E JOGO 3* 」
 ┴
 │➻ *${prefix}cerpen*
 │➻ *${prefix}cersex*
@@ -229,7 +229,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ┬
 ╰────────────────────────
 
-╭──────「 *OUTROS DIVERSÃO E JOGO* 」
+╭──────「 *DIVERSÃO E JOGO 4* 」
 ┴
 │➻ *${prefix}jadwalsholat Banyuwangi*
 │➻ *${prefix}quran*
@@ -237,7 +237,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ┬
 ╰────────────────────────
 
-╭──────「 *OUTROS DIVERSÃO E JOGO* 」
+╭──────「 *DIVERSÃO E JOGO 5* 」
 ┴
 │➻ *${prefix}becrypt string*
 │➻ *${prefix}encode64 string*
@@ -256,7 +256,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ┬
 ╰────────────────────────
 
-╭──────「 *OUTROS DIVERSÃO E JOGO* 」
+╭──────「 *DIVERSÃO E JOGO 6* 」
 ┴
 │➻ *${prefix}spamcall 083xxxxxxxxx*
 │➻ *${prefix}spamsms 083xxxxxxxx/jumlah*
