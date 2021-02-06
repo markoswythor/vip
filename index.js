@@ -193,8 +193,7 @@ async function starts() {
 					ownerB: '*ᴅᴇsᴄᴜʟᴘᴇ, ᴇsᴛᴇ ᴘᴇᴅɪᴅᴏ sᴏ́ ᴘᴏᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴇʟᴏ ᴘʀᴏᴘʀɪᴇᴛᴀ́ʀɪᴏ ʙᴏᴛ!* ',
 					premium: '*ᴅᴇsᴄᴜʟᴘᴇ ᴇsᴛᴇ ʀᴇᴄᴜʀsᴏ ᴘᴀʀᴀ ᴏs ᴜsᴜᴀ́ʀɪᴏs ᴘʀᴇᴍɪᴜᴍ!!*',
 					userB: `Olá ${pushname2}, Você não está registrado no banco de dados, digite: ${prefix}daftar`,
-					admin: '*ᴅᴇsᴄᴜʟᴘᴇ, ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏ́ ᴘᴏᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴇʟᴏ ɢʀᴜᴘᴏ ᴅᴇ ᴀᴅᴍɪɴɪsᴛʀᴀᴄ̧ᴀ̃ᴏ
-!*',
+					admin: '*ᴅᴇsᴄᴜʟᴘᴇ, ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏ́ ᴘᴏᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴘᴇʟᴏ ɢʀᴜᴘᴏ ᴅᴇ ᴀᴅᴍɪɴɪsᴛʀᴀᴄ̧ᴀ̃ᴏ*',
 					Badmin: '*ᴅᴇsᴄᴜʟᴘᴇ, ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏ́ ᴘᴏᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ǫᴜᴀɴᴅᴏ ʙᴏᴛs sᴇ ᴛᴏʀɴᴀᴍ ᴀᴅᴍɪɴ!*'
 				}
 			}
