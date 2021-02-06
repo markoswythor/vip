@@ -946,22 +946,22 @@ async function starts() {
                 if (isBanned) return reply(mess.only.benned)    
                 if (!isUser) return reply(mess.only.userB)
                      const pesan = body.slice(8)
-                      if (pesan.length > 300) return client.sendMessage(from, 'Maaf Teks Terlalu Panjang, Maksimal 300 Teks', text, {quoted: mek})
+                      if (pesan.length > 300) return client.sendMessage(from, 'Desculpe Texto é muito longo, até 300 textos', text, {quoted: mek})
                         var nomor = mek.participant
-                       const teks1 = `*[REPORT]*\nNomor : @${nomor.split("@s.whatsapp.net")[0]}\nPesan : ${pesan}`
+                       const teks1 = `*[REPORT]*\nNome : @${nomor.split("@s.whatsapp.net")[0]}\nPesan : ${pesan}`
 
                       var options = {
                          text: teks1,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('628311800241@s.whatsapp.net', options, text, {quoted: mek})
-                    reply('Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi.')
+                    client.sendMessage('559488088531@s.whatsapp.net', options, text, {quoted: mek})
+                    reply('Problema relatado ao proprietário do BOT, relatório falso/principal2 não será respondido ok.')
                     break
                 case 'request':
                 if (isBanned) return reply(mess.only.benned)    
                 if (!isUser) return reply(mess.only.userB)
                      const cfrr = body.slice(8)
-                      if (cfrr.length > 300) return client.sendMessage(from, 'Maaf Teks Terlalu Panjang, Maksimal 300 Teks', text, {quoted: mek})
+                      if (cfrr.length > 300) return client.sendMessage(from, 'Desculpe Texto é muito longo, até 300 textos', text, {quoted: mek})
                         var nomor = mek.participant
                        const ress = `*[REQUEST VITUR]*\nNomor : @${nomor.split("@s.whatsapp.net")[0]}\nPesan : ${cfrr}`
 
@@ -969,8 +969,8 @@ async function starts() {
                          text: ress,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('628311800241@s.whatsapp.net', options, text, {quoted: mek})
-                    reply('REQUEST ANDA TELAH SAMPAI ke owner BOT, Requests palsu/main2 tidak akan ditanggapi.')
+                    client.sendMessage('559488088531@s.whatsapp.net', options, text, {quoted: mek})
+                    reply('Seu pedido CHEGOU AO proprietário do BOT, solicitações falsas/main2 não serão respondidas.')
                     break
 				case 'memeindo':
 				if (isBanned) return reply(mess.only.benned)    
