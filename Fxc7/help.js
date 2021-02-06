@@ -399,7 +399,7 @@ exports.bahasa = bahasa
 
 // Limit
 const limitend = (pushname2) => {
-        return`*maaf ${pushname2} limit hari ini habis*\n*limit di reset setiap jam 12:00 WIB TENGAH MALAM*`
+        return`*Olá ${pushname2} você  atingiu o limit máximo que é renonvado de 12 em 12 horas*`
 }
 
 const limitcount = (limitCounts) => {
