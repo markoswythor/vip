@@ -74,7 +74,7 @@ prefix = "!"
 name = "~ MARKOS-BOT"
 rdaftar = "OBRIGADO POR SE REGISTAR PARA SE TORNAR UM AMIGO DO MARKOS BOT😁"
 rmenu = "Oi AMIGO MARKOS BOT👋 JANGAN LUPA DONASI YAA:)"
-limitt = 10
+limitt = 1000
 ban = []
 userpremium = ["559488088531@s.whatsapp.net"] //ubah nomer kalian
 
